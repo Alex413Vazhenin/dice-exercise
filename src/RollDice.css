@@ -18,7 +18,6 @@
     Background-color: black;
     margin-top: 3em;
 }
-
 .RollDice button:hover {
     background-color: darkslateblue;
     cursor: pointer;
